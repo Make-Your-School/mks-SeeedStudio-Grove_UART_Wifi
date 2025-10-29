@@ -15,9 +15,6 @@ clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_UART_Wifi.
 repo_prefix: "mks"
 repo_part: "Grove_UART_Wifi"
 embedded_example_file: "examples/Grove_UART_Wifi_minimal/Grove_UART_Wifi_minimal.ino"
-title: 'WiFi-Modul'
-status: 'active'
-difficulty: 'expert'
 ---
 
 
